@@ -1,0 +1,9 @@
+D:\ProjectCoba\coba27\TestMenu\TestMenu\obj\Debug\TestMenu.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\TestMenu.dll
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\Menu.dll
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\Moq.dll
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\Menu.pdb
+D:\ProjectCoba\coba27\TestMenu\TestMenu\bin\Debug\Moq.xml
+D:\ProjectCoba\coba27\TestMenu\TestMenu\obj\Debug\TestMenu.dll
+D:\ProjectCoba\coba27\TestMenu\TestMenu\obj\Debug\TestMenu.pdb

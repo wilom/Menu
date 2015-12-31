@@ -1,0 +1,5 @@
+D:\ProjectCoba\coba27\TestMenu\Menu\bin\Debug\Menu.dll
+D:\ProjectCoba\coba27\TestMenu\Menu\bin\Debug\Menu.pdb
+D:\ProjectCoba\coba27\TestMenu\Menu\obj\Debug\MenuProject.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba27\TestMenu\Menu\obj\Debug\Menu.dll
+D:\ProjectCoba\coba27\TestMenu\Menu\obj\Debug\Menu.pdb
